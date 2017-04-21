@@ -24,6 +24,20 @@ TiP BoF as a PyCon event hasn't happened since.
 
 # The New Rules
 
+- Invite only event. 250 max people. 
+
+# Speakers
+
+- Kenneth Reitz
+
+- Terry Peppers
+
+- Gary Bernhardt
+
+- Augie Fackler
+
+- 
+
 # What We Need
 
 - Attendence / Advertisement
