@@ -10,7 +10,7 @@
 
 Good evening! Good evening! Good evening!
 
-My name is Terry Peppers. I'm the Vice President of Engineering at a company called Leapfrog. We're a marketing technology company based in Evanston, IL. 
+My name is Terry Peppers. I'm the Vice President of Engineering at Leapfrog.  We're a marketing technology company based in Evanston, IL. 
 
 Welcome to the 2017 Testing in Python Birds of a Feather, or more affectionately known as the TiP BoF! 
 
@@ -19,14 +19,18 @@ Welcome to the 2017 Testing in Python Birds of a Feather, or more affectionately
 
 This gathering was born at PyCon 2009 when a very small and very niche mailing list called "Testing in Python" decided to get together and meet one another in real life and talk about our thoughts on testing. 
 
-It started innocently. Someone bought beer. Me. Someone bought pizza. Paul Hildebrandt. We found a room with a projector. And we just started talking and giving presentations. 
+It started innocently. I bought beer. Paul Hildebrandt bought pizza. We found a room with a projector. And we just started talking and giving presentations. 
 
-For me, personally, this was the single most transformative event that I've ever had in the Python community. It was at this first event that I connected deeply with a group of individuals. And collectively we spoke in a single voice that was free, witty, intelligent, irreverent, approchable, standoffish and - most importantly - never took itself seriously. Before this, people were email addresses or Twitter handles or API's; they weren't people that I connected too. But after this ... I more deeply understood that community that I've grown to admire and love. 
+Nothing magical, right? Pretty ordinary. 
+
+For me, personally, this was the single most transformative event that I've ever had in the Python community. It was at this first event that I connected deeply with a group of individuals. And collectively we spoke in a single voice that was witty, intelligent, irreverent, approchable, standoffish and - most importantly - never took itself seriously. 
+
+Before this, most of the people that I knew @ PyCon were email addresses, source repositories, authors of books, Twitter handles or API's; they weren't people that I connected too. But after this I made friends and I came away with a deeper understanding of the community that I admire and love. 
 
 
 ## The Middle and "The End"
 
-Each successive year after 2009 was filled with it's own foibles. 2010 was the year of the Testing Goat. 2011 was the year we started arm stretching with Feihong Hsu before lightning talks; it was also the year that Bryan Veloso brought a lab coat that didn't fit anyone. 2012 was when it first started to feel like it wasn't going to scale anymore - people only came to heckle not participate. And 2013, the last time we had the TiP BoF, ended poorly. No one remembers the great talks, but rather they remember the rude behavior that ruined the evening. 
+Each successive year after 2009 was filled with it's own foibles. 2010 was the year of the Testing Goat. 2011 was the year we started arm stretching with Feihong Hsu before lightning talks; it was also the year that Bryan Veloso brought a lab coat that didn't fit anyone. 2012 was when it first started to feel like it wasn't going to scale anymore - people only came to heckle not participate. And 2013, the last time we had the TiP BoF, ended poorly. No one remembers the great talks, but rather they remember the behavior that ruined the evening. 
 
 
 ## Tonight's the Night
@@ -109,5 +113,3 @@ Goats, Improvisation
 Surreptitiousness
 Thank You / Teaching Me About Myself
 Thank You / Heroku, Kenneth Reitz, Cynthia, Brandon Rhodes, Ewa, Leapfrog
-
-The Rules

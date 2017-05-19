@@ -3,9 +3,9 @@ Testing in Python Birds of a Feather Speakers
 
 - Terry Peppers
 - Kenneth Reitz
+- Shawne Brown
 - Joel Grossman
 - Dropbox
-- Shawne Brown
 - Harry Percival
 - Brian Okken
 - Gary Bernhardt
@@ -15,3 +15,4 @@ Testing in Python Birds of a Feather Speakers
 - Camille Scott
 - Jack Diederich
 - Daniel Standage
+
