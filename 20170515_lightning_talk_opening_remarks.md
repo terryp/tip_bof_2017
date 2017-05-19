@@ -57,7 +57,7 @@ The rules, for first-timers.
 
 And a couple of really important thank yous. 
 
-1. Kenneth Reitz / This wasn't my idea, this was Kenneth's idea. So I'd like everyone to thank him. Not only is his a prolific Python developer, but he's the impetus that we're having this. 
+1. Kenneth Reitz / This wasn't my idea, this was Kenneth's idea. So I'd like everyone to thank him. Not only is his a prolific Python developer, but he was really the driving force behind organizing this. 
 
 2. Heroku / Yep, we have a sponsor. Thank you Heroku. Special shout outs to Natalie and Cynthia. 
 
@@ -65,7 +65,7 @@ And a couple of really important thank yous.
 
 4. McMenamin's Crystal Ballroom / Thank you Betsy for this awesome venue. 
 
-5. My Team / Thank you to my team for helping out this evening. Joel, Kevin, Eric, Jamie, Zoe, Alana, Joseph ... you are appreciated. 
+5. My Team / Thank you to my team for helping out this evening. Joel, Kevin, Eric, Jamie, Zoe, Chris, Alana, Joseph ... you are appreciated. 
 
 6. My Friends / Thank you to all of my friends for coming. I love this conference because of Python, yes, but because I get to see all of you. 
 
