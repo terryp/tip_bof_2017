@@ -15,4 +15,5 @@ Testing in Python Birds of a Feather Speakers
 - Camille Scott
 - Jack Diederich
 - Daniel Standage
-
+- Augie Fackler
+- Nathaniel Manista
