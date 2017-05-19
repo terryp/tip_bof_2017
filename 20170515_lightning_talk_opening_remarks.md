@@ -2,7 +2,9 @@
 # Testing in Python Opening Remarks / 2017
 
 :author: Peppers
+
 :date: 2017.05.18
+
 :version: 0.1 (draft)
 
 # Opening Remarks
@@ -11,24 +13,13 @@
 
 Good evening! Good evening! Good evening!
 
-[ X 01 THEATER https://www.flickr.com/photos/cybaea/54679441/ ]
-
 My name is Terry Peppers. I'm the Vice President of Engineering at a company called Leapfrog. We're a marketing technology company based in Evanston, IL. 
 
-[ X 02 TERRY PEPPERS ]
-[ X 02 LEAPFROG OFFICES ]
-
 Welcome to the 2017 Testing in Python Birds of a Feather, or more affectionately known as the TiP BoF! 
-
-[ X 03 GOAT 01 https://flic.kr/p/8vCfSm ]
-[ X 03 GOAT 02 https://flic.kr/p/8dcf5L ]
-[ X 03 GOAT 03 https://flic.kr/p/jroA2 ]
 
 ## The Beginning
 
 This gathering was born at PyCon 2009 when a very small and very niche mailing list called "Testing in Python" decided to get together and meet one another in real life and talk about our thoughts on testing. 
-
-[ X 04 TESTING IN PYTHON MAILING LIST SCREEN SHOT ]
 
 It started innocently. Someone bought beer. Me. Someone bought pizza. Paul Hildebrandt. We found a room with a projector. And we just started talking and giving presentations. 
 
@@ -38,17 +29,11 @@ For me, personally, this was the single most transformative event that I've ever
 
 Each successive year after 2009 was filled with it's own foibles. 2010 was the year of the Testing Goat. 2011 was the year we started arm stretching with Feihong Hsu before lightning talks; it was also the year that Bryan Veloso brought a lab coat that didn't fit anyone. 2012 was when it first started to feel like it wasn't going to scale anymore - people only came to heckle not participate. And 2013, the last time we had the TiP BoF, ended poorly. No one remembers the great talks, but rather they remember the rude behavior that ruined the evening. 
 
-[ 05 THIS IS TIP BOF ]
-
 ## Tonight's the Night
 
 So here we are tonight. We're going to try it again. I hope this works and I'm relying on you - the community that I'm apart of and so very proud of - to help me. It takes a ton of courage to come up here and talk. And not only that, but talk about something as mundane as testing. And while we know that the heckle is part of the BoF - let's remember to treat everyone with respect and grace. 
 
-[ 06 GOAT BALANCE https://flic.kr/p/Ty8V6N]
-
 ## The Rules
-
-[ 07 The Rules https://flic.kr/p/e8Lxzi ] 
 
 The rules, for first-timers. 
 
@@ -64,22 +49,15 @@ The rules, for first-timers.
 
 ## Thank You
 
-[ 08 Thank You 01 https://flic.kr/p/5dkLUi ]
-
 And a couple of really important thank yous. 
 
 1. Kenneth Reitz / This wasn't my idea, this was Kenneth's idea. So I'd like everyone to thank him. Not only is his a prolific Python developer, but he's the impetus that we're having this. 
 
 2. Heroku / Yep, we have a sponsor. Thank you Heroku. Special shout outs to Natalie and Cynthia. 
 
-[ 08 Heroku ]
-
-3. Python Software Foundation / Thank you for not kicking me out. Thank you Brandon and Ewa for being supportive and for all your help to make this happen. 
-[ 08 PSF]
+3. Python Software Foundation / Thank you for not kicking me out. Thank you Brandon and Ewa for being supportive and for all your help to make this happen.
 
 4. McMenamin's Crystal Ballroom / Thank you Betsy for this awesome venue. 
-
-[ 08 Crystal ]
 
 5. My Team / Thank you to my team for helping out this evening. Joel, Kevin, Eric, Jamie, Zoe, Alana, Joseph ... you are appreciated. 
 
@@ -89,9 +67,27 @@ And a couple of really important thank yous.
 
 And now ... now ... let's get on with the show. 
 
-[ X 01 THEATER https://www.flickr.com/photos/cybaea/54679441/ ]
 
-### Boneyard
+## Credits
+
+[ 01 THEATER https://flic.kr/p/5QfhZ ]
+[ 02 TERRY PEPPERS https://flic.kr/p/njnGeK ]
+[ 02 LEAPFROG OFFICES ]
+[ 03 GOAT 01 https://flic.kr/p/8vCfSm ]
+[ 03 GOAT 02 https://flic.kr/p/8dcf5L ]
+[ 03 GOAT 03 https://flic.kr/p/jroA2 ]
+[ 04 TESTING IN PYTHON MAILING LIST SCREEN SHOT ]
+[ 05 THIS IS TIP BOF ]
+[ 06 GOAT BALANCE https://flic.kr/p/Ty8V6N]
+[ 07 The Rules https://flic.kr/p/e8Lxzi ] 
+[ 08 Thank You 01 https://flic.kr/p/5dkLUi ]
+[ 08 Heroku ] 
+[ 08 PSF]
+[ 08 Crystal ]
+[ 08 Thank You 03 https://flic.kr/p/qM8AjF ]
+
+
+## Boneyard
 
 The notions of expression, liberty, wit, improvisation, irreverence, high technical skill
 
