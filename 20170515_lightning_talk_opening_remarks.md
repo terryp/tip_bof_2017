@@ -12,7 +12,7 @@ Good evening! Good evening! Good evening!
 
 My name is Terry Peppers. I'm the Vice President of Engineering at Leapfrog.  We're a marketing technology company based in Evanston, IL. 
 
-Welcome to the 2017 Testing in Python Birds of a Feather, or more affectionately known as the TiP BoF! 
+Welcome to the 2017 Testing in Python Birds of a Feather, or if you're into the whole brevity thing TiP BoF! 
 
 
 ## The Beginning
@@ -21,7 +21,7 @@ This gathering was born at PyCon 2009 when a very small and very niche mailing l
 
 It started innocently. I bought beer. Paul Hildebrandt bought pizza. We found a room with a projector. And we just started talking and giving presentations. 
 
-Nothing magical, right? Pretty ordinary. 
+It was the most ordinary and least magical thing on the surface.
 
 For me, personally, this was the single most transformative event that I've ever had in the Python community. It was at this first event that I connected deeply with a group of individuals. And collectively we spoke in a single voice that was witty, intelligent, irreverent, approchable, standoffish and - most importantly - never took itself seriously. 
 
@@ -44,11 +44,11 @@ The rules, for first-timers.
 
 1. Be Ready.
 2. Speak Loudly.
-2. You Have 5 Minutes - ish. 
-3. The Talk Has to Be About "Testing."
-4. You Don't Have to Take Questions. 
-5. Be Nice. We're in "code of conduct" territory. 
-6. Best Lighting Talk of the Evening Wins the Lab Coat.*
+3. You Have 5 Minutes - ish. 
+4. The Talk Has to Be About "Testing."
+5. You Don't Have to Take Questions. 
+6. Be Nice. We're in "code of conduct" territory. 
+7. Best Lighting Talk of the Evening Wins the Lab Coat.*
 
 *Unscientifically judged by me and some of my friends. 
 

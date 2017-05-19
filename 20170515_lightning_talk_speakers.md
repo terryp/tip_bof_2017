@@ -8,11 +8,11 @@ Testing in Python Birds of a Feather Speakers
 - Dropbox
 - Harry Percival
 - Brian Okken
-- Gary Bernhardt
 - Eric Cline
-- Kevin Boers
+- Gary Bernhardt
 - Luiz Irber
 - Camille Scott
+- Kevin Boers
 - Jack Diederich
 - Daniel Standage
 - Augie Fackler
