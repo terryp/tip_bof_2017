@@ -1,13 +1,10 @@
 
 # Testing in Python Opening Remarks / 2017
 
-:author: Peppers
+- Peppers
+- 2017.05.18
+- version 0.3 (draft)
 
-:date: 2017.05.18
-
-:version: 0.1 (draft)
-
-# Opening Remarks
 
 ## Open 
 
@@ -17,6 +14,7 @@ My name is Terry Peppers. I'm the Vice President of Engineering at a company cal
 
 Welcome to the 2017 Testing in Python Birds of a Feather, or more affectionately known as the TiP BoF! 
 
+
 ## The Beginning
 
 This gathering was born at PyCon 2009 when a very small and very niche mailing list called "Testing in Python" decided to get together and meet one another in real life and talk about our thoughts on testing. 
@@ -25,13 +23,16 @@ It started innocently. Someone bought beer. Me. Someone bought pizza. Paul Hilde
 
 For me, personally, this was the single most transformative event that I've ever had in the Python community. It was at this first event that I connected deeply with a group of individuals. And collectively we spoke in a single voice that was free, witty, intelligent, irreverent, approchable, standoffish and - most importantly - never took itself seriously. Before this, people were email addresses or Twitter handles or API's; they weren't people that I connected too. But after this ... I more deeply understood that community that I've grown to admire and love. 
 
+
 ## The Middle and "The End"
 
 Each successive year after 2009 was filled with it's own foibles. 2010 was the year of the Testing Goat. 2011 was the year we started arm stretching with Feihong Hsu before lightning talks; it was also the year that Bryan Veloso brought a lab coat that didn't fit anyone. 2012 was when it first started to feel like it wasn't going to scale anymore - people only came to heckle not participate. And 2013, the last time we had the TiP BoF, ended poorly. No one remembers the great talks, but rather they remember the rude behavior that ruined the evening. 
 
+
 ## Tonight's the Night
 
 So here we are tonight. We're going to try it again. I hope this works and I'm relying on you - the community that I'm apart of and so very proud of - to help me. It takes a ton of courage to come up here and talk. And not only that, but talk about something as mundane as testing. And while we know that the heckle is part of the BoF - let's remember to treat everyone with respect and grace. 
+
 
 ## The Rules
 
@@ -46,6 +47,7 @@ The rules, for first-timers.
 6. Best Lighting Talk of the Evening Wins the Lab Coat.*
 
 *Unscientifically judged by me and some of my friends. 
+
 
 ## Thank You
 
