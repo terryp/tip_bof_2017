@@ -17,7 +17,7 @@ Welcome to the 2017 Testing in Python Birds of a Feather, or if you're into the 
 
 ## The Beginning
 
-This gathering was born at PyCon 2009 when a very small and very niche mailing list called "Testing in Python" decided to get together and meet one another in real life and talk about our thoughts on testing. 
+The first TiP BoF was at PyCon 2009 in Chicago when a very small and very niche mailing list called "Testing in Python" decided to get together and meet one another in real life and talk about our thoughts on testing. 
 
 It started innocently. I bought beer. Paul Hildebrandt bought pizza. We found a room with a projector. And we just started talking and giving presentations. 
 
@@ -30,12 +30,24 @@ Before this, most of the people that I knew @ PyCon were email addresses, source
 
 ## The Middle and "The End"
 
-Each successive year after 2009 was filled with it's own foibles. 2010 was the year of the Testing Goat. 2011 was the year we started arm stretching with Feihong Hsu before lightning talks; it was also the year that Bryan Veloso brought a lab coat that didn't fit anyone. 2012 was when it first started to feel like it wasn't going to scale anymore - people only came to heckle not participate. And 2013, the last time we had the TiP BoF, ended poorly. No one remembers the great talks, but rather they remember the behavior that ruined the evening. 
+Each successive year after 2009 was filled with it's own foibles. 
+
+2010 was the year of the Testing Goat. 
+
+2011 was the year we started arm stretching with Feihong Hsu before lightning talks; it was also the year that Bryan Veloso brought a lab coat that didn't fit anyone. 
+
+2012 was when it first started to feel like it wasn't going to scale anymore - people only came to heckle not participate. 
+
+And 2013, the last time we had the TiP BoF, ended poorly. No one remembers the great talks, but rather they remember the behavior that ruined the evening. 
 
 
 ## Tonight's the Night
 
-So here we are tonight. We're going to try it again. I hope this works and I'm relying on you - the community that I'm apart of and so very proud of - to help me. It takes a ton of courage to come up here and talk. And not only that, but talk about something as mundane as testing. And while we know that the heckle is part of the BoF - let's remember to treat everyone with respect and grace. 
+So here we are tonight. 
+
+We're going to try it again. 
+
+I hope this works and I'm relying on you - the community that I'm apart of and so very proud of - to help me. It takes a ton of courage to come up here and talk. And not only that, but talk about something as mundane as testing. And while we know that the heckle is part of the BoF - let's remember to treat everyone with respect and grace. 
 
 
 ## The Rules
@@ -63,7 +75,7 @@ And a couple of really important thank yous.
 
 3. Python Software Foundation / Thank you for not kicking me out. Thank you Brandon and Ewa for being supportive and for all your help to make this happen.
 
-4. McMenamin's Crystal Ballroom / Thank you Betsy for this awesome venue. 
+4. McMenamin's Crystal Ballroom / MICK-MAN-NI-MINS / Thank you Betsy for this awesome venue. 
 
 5. My Team / Thank you to my team for helping out this evening. Joel, Kevin, Eric, Jamie, Zoe, Chris, Alana, Joseph ... you are appreciated. 
 
