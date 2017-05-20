@@ -12,7 +12,6 @@ Testing in Python Birds of a Feather Speakers
 - Gary Bernhardt
 - Luiz Irber
 - Camille Scott
-- Kevin Boers
 - Jack Diederich
 - Daniel Standage
 - Augie Fackler

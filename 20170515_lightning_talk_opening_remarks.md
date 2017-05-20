@@ -17,7 +17,7 @@ Welcome to the 2017 Testing in Python Birds of a Feather, or if you're into the 
 
 ## The Beginning
 
-The first TiP BoF was at PyCon 2009 in Chicago when a very small and very niche mailing list called "Testing in Python" decided to get together and meet one another in real life and talk about our thoughts on testing. 
+The first TiP BoF was at PyCon 2009 in Chicago when a very small and very niche mailing list called "Testing in Python," decided to get together and meet one another in real life and talk about our thoughts on testing. 
 
 It started innocently. I bought beer. Paul Hildebrandt bought pizza. We found a room with a projector. And we just started talking and giving presentations. 
 
