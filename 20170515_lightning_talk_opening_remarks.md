@@ -25,7 +25,7 @@ It was the most ordinary and least magical thing on the surface.
 
 For me, personally, this was the single most transformative event that I've ever had in the Python community. It was at this first event that I connected deeply with a group of individuals. And collectively we spoke in a single voice that was witty, intelligent, irreverent, approchable, standoffish and - most importantly - never took itself seriously. 
 
-Before this, most of the people that I knew @ PyCon were email addresses, source repositories, authors of books, Twitter handles or API's; they weren't people that I connected too. But after this I made friends and I came away with a deeper understanding of the community that I admire and love. 
+Before this, most of the people that I knew @ PyCon were email addresses, source repositories, authors of books, Twitter handles or API's; they weren't people that I connected too. But after this I made friends and I came away with a deeper understanding of the community that I admire and love. Al Swigert 
 
 
 ## The Middle and "The End"

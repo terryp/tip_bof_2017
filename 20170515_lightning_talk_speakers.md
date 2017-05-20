@@ -2,15 +2,16 @@
 Testing in Python Birds of a Feather Speakers
 
 - Terry Peppers
-- Kenneth Reitz
 - Shawne Brown
 - Joel Grossman
 - Dropbox
+- Kenneth Reitz
 - Harry Percival
 - Brian Okken
 - Eric Cline
 - Gary Bernhardt
 - Luiz Irber
+- Jonan (Heroku)
 - Camille Scott
 - Jack Diederich
 - Daniel Standage
